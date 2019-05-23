@@ -1,0 +1,5 @@
+broccoli
+flour
+sugar
+milk
+eggs
